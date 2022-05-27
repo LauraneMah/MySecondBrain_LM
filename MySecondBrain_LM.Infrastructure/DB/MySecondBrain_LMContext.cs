@@ -4,7 +4,7 @@ using Microsoft.EntityFrameworkCore.Metadata;
 
 #nullable disable
 
-namespace MySecondBrain_LM.MVCApp.Infrastructure.DB
+namespace MySecondBrain_LM.Infrastructure.DB
 {
     public partial class MySecondBrain_LMContext : DbContext
     {
